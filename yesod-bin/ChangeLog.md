@@ -1,3 +1,7 @@
+## 1.6.0.5
+
+* Fix when C-c, kill yesod-bin and children process [#1683](https://github.com/yesodweb/yesod/pull/1683)
+
 ## 1.6.0.4
 
 * Support Cabal 3.0
